@@ -3,3 +3,5 @@ This is an app to view, create and track daily workouts. This app was created us
 
 ## Demo
 https://afternoon-cove-73668.herokuapp.com/
+
+![Demo](https://github.com/adhamera/FitTracker/blob/main/fittrackerapp.png)
